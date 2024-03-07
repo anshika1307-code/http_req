@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "http_req_backend": {
+      "candid": "src/http_req_backend/http_req_backend.did",
+      "package": "http_req_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

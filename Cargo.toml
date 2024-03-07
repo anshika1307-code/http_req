@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/http_req_backend"
+]
+resolver = "2"
